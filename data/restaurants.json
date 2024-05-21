@@ -1,0 +1,75 @@
+[
+  {
+   
+    "name": "Restaurant-1",
+    "restaurantId": 1000012,
+    "description": "Sample ",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.006,
+        40.7128
+      ]
+    },
+    "numOfReviews": 0,
+    "averageRating": 0,
+    "cuisineTypeCategory": "Indian",
+    "dietaryPreferenceCategory": "Non-vegetarian",
+    "openingHours": "10am-12 am",
+    "isFeatured": false,
+    "createdBy": "654a3db31176c7039c31c883",
+    "images": [],
+    "createdAt":  "2023-11-11T09:55:26.826Z"
+    ,
+    "__v": 0,
+    "pincode": 345677,
+    "restaurantName": "Sample Restaurant",
+    "point": "xyz",
+    "restaurantBranch": "Branch-C"
+  },
+  {
+  
+    "name": "Restaurant-1",
+    "restaurantId": 1000010,
+    "description": "A sample restaurant description",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -74.006,
+        40.7128
+      ]
+    },
+    "numOfReviews": 0,
+    "averageRating": 0,
+    "cuisineTypeCategory": "Italian",
+    "dietaryPreferenceCategory": "Non-vegetarian",
+    "openingHours": "9 AM - 10 PM",
+    "isFeatured": false,
+    "createdBy": "654a3db31176c7039c31c883",
+    "createdAt":  "2023-11-11T10:12:12.840Z"
+    ,
+    "__v": 0,
+    "pincode": 34523,
+    "point": "CA",
+    "restaurantBranch": "Branch-A",
+    "restaurantName": "Sample Restaurant"
+  },
+  {
+  
+    "restaurantName": "Sample Restaurant",
+    "restaurantBranch": "Branch-B",
+    "pincode": 654321,
+    "restaurantId": 1000011,
+    "description": "A sample restaurant for testing purposes.",
+    "point": "CA",
+    "numOfReviews": 0,
+    "averageRating": 0,
+    "cuisineTypeCategory": "Italian",
+    "openingHours": "Mon-Fri: 8:00 AM - 10:00 PM, Sat-Sun: 10:00 AM - 8:00 PM",
+    "isFeatured": false,
+    "createdBy": "6532a0cee3b23fd42e40f483",
+    "createdAt":  "2023-11-28T07:53:15.557Z"
+    ,
+    "__v": 0
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Super Admin",
+    "lastName": "1",
+    "email": "thulasi9941@gmail.com",
+    "phone": "7358368263",
+    "password": "$2b$10$613J8jizrwYtXgPsCkW1puec7udUjpDa2TZAWlrIgE22i85uEJut6",
+    "role": "superAdmin",
+    "orderHistory": [],
+    "appliedPromotions": [],
+    "createdAt":  "2023-10-20T15:46:22.858Z"
+    ,
+    "__v": 0,
+    "loginOtp": "0a84e022f742f8094be6af17fb34b6b1fc1d4432a9d164ac9816fb6747aba295"
+  },
+  {
+    
+    "name": "User",
+    "lastName": "1",
+    "email": "testuser@gmail.com",
+    "phone": "9003017872",
+    "password": "$2b$10$uXSbFSM3XxJx/Ux0J4.Bl.YD.nEGg8hGscptRD/lnBzJ5Ork5jmJW",
+    "role": "user",
+    "orderHistory": [],
+    "appliedPromotions": [],
+    "createdAt":  "2023-11-23T06:11:09.466Z"
+    ,
+    "__v": 0
+  },
+  {
+    "name": "Test",
+    "lastName": "1",
+    "email": "test1@gmail.com",
+    "phone": "9346779780",
+    "password": "$2b$10$liH7uJGjAz9Lk5x/.O7BAu224/M2qZTetWCgWxdbHPks2CheStlcy",
+    "role": "admin",
+    "restaurantBranch": "Branch-A",
+    "restaurantId": "1000010",
+    "orderHistory": [],
+    "appliedPromotions": [],
+    "createdAt": "2023-11-28T09:57:38.786Z"
+    ,
+    "__v": 0
+  }
+]

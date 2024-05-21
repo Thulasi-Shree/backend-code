@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Ice cream",
+    "price": 8,
+    "description": "sample ice cream",
+    "images": [],
+    "mealTypeCategory": "Desserts",
+    "dietaryPreferenceCategory": "Vegetarian",
+    "restaurantId": "1000010",
+    "restaurantBranch": "Branch-A",
+    "isAvailable": true,
+    "isPreOrderAvailable": true,
+    "numOfReviews": 0,
+    
+    "__v": 0
+  },
+  {
+    "name": "vegan Pizza",
+    "price": 17,
+    "description": "New magical pizza",
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/product/pizza.jpeg"
+        
+      }
+    ],
+    "mealTypeCategory": "Main Course",
+    "dietaryPreferenceCategory": "Vegan",
+    "restaurantId": "1000011",
+    "isAvailable": true,
+    "isPreOrderAvailable": true,
+    "numOfReviews": 0,
+   
+    "__v": 0,
+    "restaurantBranch": "Branch-B"
+  }, 
+  {
+    
+    "name": "Pizza",
+    "price": 17,
+    "description": "sample menu",
+    "itemQuantity": 1,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/product/burger.jpeg"
+     
+      }
+    ],
+    "mealTypeCategory": "Appetizers",
+    "dietaryPreferenceCategory": "Non-vegetarian",
+    "restaurantId": "1000010",
+    "isAvailable": true,
+    "isPreOrderAvailable": true,
+    "numOfReviews": 0,
+    
+    "__v": 0,
+    "restaurantBranch": "Branch-A"
+  },
+  {
+    "name": "Burger",
+    "price": 17,
+    "description": "Sample burger menu",
+    "itemQuantity": 32,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/product/burger.jpeg"
+    
+      }
+    ],
+    "mealTypeCategory": "Main Course",
+    "dietaryPreferenceCategory": "Vegetarian",
+    "restaurantId": "1000012",
+    "isAvailable": false,
+    "isPreOrderAvailable": true,
+    "numOfReviews": 0,
+    
+    "__v": 0,
+    "restaurantBranch": "Branch-C"
+  },
+  {
+    "name": "Pizza",
+    "price": 17,
+    "description": "Sample menu- pizza",
+    "itemQuantity": 2,
+    "images": [
+      {
+        "image": "http://127.0.0.1:8000/uploads/product/pizza.jpeg"
+     
+      }
+    ],
+    "mealTypeCategory": "Appetizers",
+    "dietaryPreferenceCategory": "Vegetarian",
+    "restaurantId": "1000010",
+    "isPreOrderAvailable": true,
+    "numOfReviews": 0,
+    
+    "__v": 0,
+    "isAvailable": true,
+    "restaurantBranch": "Branch-A"
+  },
+  {
+    "name": "Pizza",
+    "price": 17,
+    "description": "Sample menu",
+    "itemQuantity": 53,
+    "images": [
+      {
+        "image": "/uploads/product/pizza.jpg"      
+      }
+    ],
+    "mealTypeCategory": "Main Course",
+    "dietaryPreferenceCategory": "Vegetarian",
+    "restaurantId": "1000010",
+    "numOfReviews": 0,
+    
+    "__v": 0,
+    "isAvailable": true,
+    "restaurantBranch": "Branch-A"
+  },
+  {
+    "name": "Pizza",
+    "price": 17,
+    "description": "sample",
+    "itemQuantity": 34,
+    "mealTypeCategory": "Appetizers",
+    "dietaryPreferenceCategory": "Vegetarian",
+    "restaurantId": "1000012",
+    "numOfReviews": 0,
+    
+    "__v": 0,
+    "isAvailable": true,
+    "restaurantBranch": "Branch-C"
+  },
+  {
+    "name": "Pizza",
+    "price": 14,
+    "description": "Sample dish",
+    "itemQuantity": 778,
+    "mealTypeCategory": "Appetizers",
+    "dietaryPreferenceCategory": "Vegetarian",
+    "restaurantId": "1000012",
+    "numOfReviews": 0,
+    
+    "__v": 0,
+    "isAvailable": true,
+    "restaurantBranch": "Branch-C"
+  },
+  {
+    "name": "Pizza",
+    "price": 14,
+    "description": "Sample dish",
+    "itemQuantity": 8,
+    "mealTypeCategory": "Appetizers",
+    "dietaryPreferenceCategory": "Vegetarian",
+    "restaurantId": "1000012",
+    "numOfReviews": 0,
+   
+    "__v": 0,
+    "isAvailable": true,
+    "restaurantBranch": "Branch-C"
+  },
+  {
+    "name": "Burger",
+    "price": 14,
+    "description": "Sample ",
+    "itemQuantity": 56,
+    
+    "mealTypeCategory": "Main Course",
+    "dietaryPreferenceCategory": "Vegan",
+    "restaurantId": "1000011",
+    "isAvailable": false,
+    "isPreOrderAvailable": false,
+    "numOfReviews": 0,
+   
+    "__v": 0,
+    "restaurantBranch": "Branch-B"
+  },
+  {
+    "name": "Veg Pizza",
+    "price": 14,
+    "description": "Sample ",
+    "itemQuantity": 60,
+
+    "mealTypeCategory": "Appetizers",
+    "dietaryPreferenceCategory": "Vegetarian",
+    "restaurantId": "1000011",
+    "isAvailable": false,
+    "isPreOrderAvailable": false,
+    "numOfReviews": 0,
+   
+    "__v": 0,
+    "restaurantBranch": "Branch-B"
+  },
+  {
+    "name": "Burger",
+    "price": 14,
+    "description": "Sample 3",
+    "itemQuantity": 35,
+   
+    "mealTypeCategory": "Main Course",
+    "dietaryPreferenceCategory": "Vegan",
+    "restaurantId": "1000011",
+    "isAvailable": false,
+    "isPreOrderAvailable": false,
+    "numOfReviews": 0,
+    
+    "__v": 0,
+    "restaurantBranch": "Branch-B"
+  },
+  {
+    "name": "Sample Dish",
+    "price": 10.99,
+    "description": "Delicious sample dish description.",
+   
+    "mealTypeCategory": "Beverages",
+    "dietaryPreferenceCategory": "Vegan",
+    "restaurantId": "1000011",
+    "isAvailable": true,
+    "isPreOrderAvailable": false,
+    "numOfReviews": 0,
+   
+    "__v": 0,
+    "itemQuantity": 10,
+    "restaurantBranch": "Branch-B"
+  },
+  {
+    "name": "New Dish",
+    "price": 10.99,
+    "description": "Delicious sample dish description.",
+    "ratings": {
+      "$oid": "609c0f166f53d94618fc25fd"
+    },
+    "mealTypeCategory": "Appetizers",
+    "dietaryPreferenceCategory": "Vegan",
+    "isAvailable": true,
+    "isPreOrderAvailable": true,
+    "numOfReviews": 0,
+   
+    "__v": 0,
+    "restaurantBranch": "Branch-B",
+    "restaurantId": "1000011"
+  },
+  {
+    "name": "Sample Dish",
+    "price": 10.99,
+    "description": "Delicious sample dish description.",
+   
+    "mealTypeCategory": "Beverages",
+    "dietaryPreferenceCategory": "Vegan",
+   
+    "isAvailable": true,
+    "numOfReviews": 1,
+   
+    "__v": 0,
+    "isPreOrderAvailable": false,
+    "restaurantBranch": "Branch-A",
+    "restaurantId": "1000010"
+  },
+  {
+    "name": "Sample Dish",
+    "price": 10.99,
+    "description": "Delicious sample dish description.",
+   
+    "mealTypeCategory": "Appetizers",
+    "dietaryPreferenceCategory": "Vegan",
+   
+    "isAvailable": true,
+    "numOfReviews": 0,
+  
+    "__v": 0,
+    "restaurantId": "1000010",
+    "restaurantBranch": "Branch-A"
+  }
+]

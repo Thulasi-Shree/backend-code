@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "65394ac9a3096d94b0434a14",
+    "userId": "653536f2df16980a1c29fc45",
+    "street": "123 Main St",
+    "city": "Sample City",
+    "state": "Sample State",
+    "postalCode": "12345",
+    "country": "Sample Country",
+    "__v": 0
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "productId": "65365c4bb5decab9231f5aeb",
+    "userId": "6532a0cee3b23fd42e40f483",
+    "rating": 4.5,
+    "comment": "good",
+    "createdAt": "2023-10-23T12:49:05.667Z",
+    "__v": 0
+  },
+  {
+    "_id": "65366bd5c56f2add7fba8047",
+    "productId": "65365c4bb5decab9231f5aeb",
+    "userId": "6535384e8401ec0eaa9f35f2",
+    "rating": 3.5,
+    "comment": "good",
+    "createdAt": "2023-10-23T12:49:25.789Z",
+    "__v": 0
+  },
+  {
+    "_id": "65366bf8c56f2add7fba804d",
+    "productId": "65365c4bb5decab9231f5aeb",
+    "userId": "653536f2df16980a1c29fc45",
+    "rating": 3.5,
+    "comment": "good",
+    "createdAt": "2023-10-23T12:50:00.839Z",
+    "__v": 0
+  },
+  {
+    "_id": "653684abd87e5b0daa2e4600",
+    "productId": "65365c4bb5decab9231f5aeb",
+    "userId": "653631c64e08238ff65c14ed",
+    "rating": 4.5,
+    "comment": "good",
+    "createdAt": "2023-10-23T14:35:23.673Z",
+    "__v": 0
+  }
+]

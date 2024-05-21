@@ -1,0 +1,57 @@
+[
+  {
+    "slot": "08:00 AM - 09:00 AM",
+    "restaurantId": "1000010",
+    "restaurantName": "Branch-A",
+    "__v": 0
+  },
+  {
+    "slot": "09:00 AM - 10:00 AM",
+    "restaurantId": "1000010",
+    "restaurantName": "Branch-A",
+    "__v": 0
+  },
+  {
+ 
+    "slot": "Now",
+    "restaurantId": "1000010",
+    "restaurantName": "Branch-A",
+    "__v": 0
+  },
+  {
+    "slot": "Now",
+    "restaurantId": "1000011",
+    "restaurantName": "Branch-B",
+    "__v": 0
+  },
+  {
+    "slot": "Now",
+    "restaurantId": "1000012",
+    "restaurantName": "Branch-C",
+    "__v": 0
+  },
+  {
+    "slot": "08:00 AM - 09:00 AM",
+    "restaurantId": "1000011",
+    "restaurantName": "Branch-B",
+    "__v": 0
+  },
+  {
+    "slot": "09:00 AM - 10:00 AM",
+    "restaurantId": "1000011",
+    "restaurantName": "Branch-B",
+    "__v": 0
+  },
+  {
+    "slot": "08:00 AM - 09:00 AM",
+    "restaurantId": "1000010",
+    "restaurantName": "Branch-A",
+    "__v": 0
+  },
+  {
+    "slot": "09:00 AM - 10:00 AM",
+    "restaurantId": "1000010",
+    "restaurantName": "Branch-A",
+    "__v": 0
+  }
+]

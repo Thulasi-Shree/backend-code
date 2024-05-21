@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "653910010f1cf3f2ec9324c6",
+    "user": "653536f2df16980a1c29fc45",
+    "type": "Bug Report",
+    "message": "I encountered a bug when trying to submit my order. The checkout button is not working properly.",
+    "createdAt": "2023-10-25T12:54:25.058Z",
+    "__v": 0
+  },
+  {
+    "_id": "653911247eb561e206422bc2",
+    "user": "653536f2df16980a1c29fc45",
+    "type": "Bug Report",
+    "message": "I encountered a bug when trying to submit my order. The checkout button is not working properly.",
+    "createdAt": "2023-10-25T12:59:16.436Z",
+    "__v": 0
+  }
+]

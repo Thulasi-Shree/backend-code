@@ -1,0 +1,189 @@
+[
+  {
+    "_id": "654482523abf9a4ed95e9ea9",
+    "name": "Sample Location",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -74.006,
+        40.7128
+      ]
+    },
+    "restaurants": [],
+    "sales": 0,
+    "taxRate": 0,
+    "averageDeliveryTime": 0,
+    "revenue": 0,
+    "totalOrders": 0,
+    "deliveryCount": 0,
+    "customerRatings": [],
+    "bestSellerItems": [],
+    "__v": 0
+  },
+  {
+    "_id": "6544826ba5d34a12b580ba7f",
+    "name": "Sample Location",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -74.006,
+        40.7128
+      ]
+    },
+    "restaurants": [],
+    "sales": 0,
+    "taxRate": 0,
+    "averageDeliveryTime": 0,
+    "revenue": 0,
+    "totalOrders": 0,
+    "deliveryCount": 0,
+    "customerRatings": [],
+    "bestSellerItems": [],
+    "__v": 0
+  },
+  {
+    "_id": "65448338d4a044d6ede34db7",
+    "name": "Sample Location",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -74.006,
+        40.7128
+      ]
+    },
+    "restaurants": [],
+    "sales": 0,
+    "taxRate": 0,
+    "averageDeliveryTime": 0,
+    "revenue": 0,
+    "totalOrders": 0,
+    "deliveryCount": 0,
+    "customerRatings": [],
+    "bestSellerItems": [],
+    "__v": 0
+  },
+  {
+    "_id": "654483f3d73ea2ded12110aa",
+    "name": "Sample Location",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -74.006,
+        40.7128
+      ]
+    },
+    "restaurants": [],
+    "sales": 0,
+    "taxRate": 0,
+    "averageDeliveryTime": 0,
+    "revenue": 0,
+    "totalOrders": 0,
+    "deliveryCount": 0,
+    "customerRatings": [],
+    "bestSellerItems": [],
+    "__v": 0
+  },
+  {
+    "_id": "65448444cfa2aa24493b411d",
+    "name": "Sample Location",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -74.006,
+        40.7128
+      ]
+    },
+    "restaurants": [],
+    "sales": 0,
+    "taxRate": 0,
+    "averageDeliveryTime": 0,
+    "revenue": 0,
+    "totalOrders": 0,
+    "deliveryCount": 0,
+    "customerRatings": [],
+    "bestSellerItems": [],
+    "__v": 0
+  },
+  
+{
+  "_id": {
+    "$oid": "654484c5b7d574e6babe3577"
+  },
+  "name": "Sample Location",
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -74.006,
+      40.7128
+    ]
+  },
+  "restaurants": [],
+  "sales": 0,
+  "taxRate": 0,
+  "averageDeliveryTime": 0,
+  "revenue": 0,
+  "totalOrders": 0,
+  "deliveryCount": 0,
+  "customerRatings": [],
+  "bestSellerItems": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65448576c11709b6f8f00e14"
+  },
+  "name": "Sample Location",
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -74.006,
+      40.7128
+    ]
+  },
+  "restaurants": [],
+  "sales": 0,
+  "taxRate": 0,
+  "averageDeliveryTime": 0,
+  "revenue": 0,
+  "totalOrders": 0,
+  "deliveryCount": 0,
+  "customerRatings": [],
+  "bestSellerItems": [],
+  "__v": 0
+}, 
+{
+    "_id": "654484c5b7d574e6babe3577",
+    "name": "Sample Location",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-74.006, 40.7128]
+    },
+    "restaurants": [],
+    "sales": 0,
+    "taxRate": 0,
+    "averageDeliveryTime": 0,
+    "revenue": 0,
+    "totalOrders": 0,
+    "deliveryCount": 0,
+    "customerRatings": [],
+    "bestSellerItems": [],
+    "__v": 0
+  },
+  {
+    "_id": "65448576c11709b6f8f00e14",
+    "name": "Sample Location",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-74.006, 40.7128]
+    },
+    "restaurants": [],
+    "sales": 0,
+    "taxRate": 0,
+    "averageDeliveryTime": 0,
+    "revenue": 0,
+    "totalOrders": 0,
+    "deliveryCount": 0,
+    "customerRatings": [],
+    "bestSellerItems": [],
+    "__v": 0
+  }]
